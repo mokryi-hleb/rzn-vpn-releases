@@ -5,7 +5,7 @@ The application uses unmodified official libXray Android binaries downloaded by 
 - **libXray v26.10.17** — [source](https://github.com/XTLS/libXray/tree/v26.10.17), [MIT license](https://github.com/XTLS/libXray/blob/v26.10.17/LICENSE).
 - **Xray-core**, pinned by that libXray release to `92ccc939aaf4` — [source](https://github.com/XTLS/Xray-core/tree/92ccc939aaf4), [Mozilla Public License 2.0](https://github.com/XTLS/Xray-core/blob/92ccc939aaf4/LICENSE).
 - **Go runtime and gomobile** — [Go license](https://go.dev/LICENSE), [gomobile source and license](https://go.googlesource.com/mobile/).
-- **AndroidX / Jetpack Compose** — [source and licenses](https://android.googlesource.com/platform/frameworks/support/), Apache License 2.0.
+- **AndroidX / Jetpack Compose**, including **graphics-shapes 1.0.1** — [source and licenses](https://android.googlesource.com/platform/frameworks/support/), Apache License 2.0.
 - **Kotlin and kotlinx.coroutines** — [Kotlin](https://github.com/JetBrains/kotlin), [coroutines](https://github.com/Kotlin/kotlinx.coroutines), Apache License 2.0.
 - **OkHttp 4.12.0 and Okio** — [source and license](https://github.com/square/okhttp/tree/parent-4.12.0), Apache License 2.0.
 
