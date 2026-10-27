@@ -1,8 +1,8 @@
 # rzn vpn для Android
 
-Тестовые сборки VPN-клиента rzn vpn на базе Xray-core.
+Предварительные сборки VPN-клиента rzn vpn на базе Xray-core. Пока функциональность дорабатывается, все версии публикуются как **Pre-release**.
 
-**[Скачать актуальный APK для ARM64](https://github.com/mokryi-hleb/rzn-vpn-releases/releases/latest/download/rzn-vpn-arm64-v8a.apk)** · [Все версии и изменения](https://github.com/mokryi-hleb/rzn-vpn-releases/releases) · [Контрольные суммы](https://github.com/mokryi-hleb/rzn-vpn-releases/releases/latest/download/SHA256SUMS)
+**[Скачать 0.1.14 для ARM64](https://github.com/mokryi-hleb/rzn-vpn-releases/releases/download/v0.1.14/rzn-vpn-arm64-v8a.apk)** · [Все версии и изменения](https://github.com/mokryi-hleb/rzn-vpn-releases/releases) · [Контрольные суммы](https://github.com/mokryi-hleb/rzn-vpn-releases/releases/download/v0.1.14/SHA256SUMS)
 
 Нужен Android 8.0 или новее и процессор ARM64. Эта сборка подходит для Pixel 10 Pro XL и других устройств ARM64; для 32-битных телефонов и эмуляторов x86 она не подходит.
 
