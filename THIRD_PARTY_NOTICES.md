@@ -2,8 +2,8 @@
 
 The application uses unmodified official libXray Android binaries downloaded by `scripts/fetch_xray.py`.
 
-- **libXray v26.10.17** — [source](https://github.com/XTLS/libXray/tree/v26.10.17), [MIT license](https://github.com/XTLS/libXray/blob/v26.10.17/LICENSE).
-- **Xray-core**, pinned by that libXray release to `92ccc939aaf4` — [source](https://github.com/XTLS/Xray-core/tree/92ccc939aaf4), [Mozilla Public License 2.0](https://github.com/XTLS/Xray-core/blob/92ccc939aaf4/LICENSE).
+- **libXray v26.10.31** — [source](https://github.com/XTLS/libXray/tree/v26.10.31), [MIT license](https://github.com/XTLS/libXray/blob/v26.10.31/LICENSE).
+- **Xray-core 26.10.31**, pinned by that libXray release to `a4a3dff5b20c` — [source](https://github.com/XTLS/Xray-core/tree/a4a3dff5b20c), [Mozilla Public License 2.0](https://github.com/XTLS/Xray-core/blob/a4a3dff5b20c/LICENSE).
 - **Go runtime and gomobile** — [Go license](https://go.dev/LICENSE), [gomobile source and license](https://go.googlesource.com/mobile/).
 - **AndroidX / Jetpack Compose**, including **graphics-shapes 1.0.1**, **Navigation Compose 2.9.8** and **WorkManager 2.11.2** — [source and licenses](https://android.googlesource.com/platform/frameworks/support/), Apache License 2.0.
 - **Kotlin and kotlinx.coroutines** — [Kotlin](https://github.com/JetBrains/kotlin), [coroutines](https://github.com/Kotlin/kotlinx.coroutines), Apache License 2.0.
